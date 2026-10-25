@@ -1,7 +1,7 @@
 // src/components/home/Hero.tsx
 import { useRef } from "react";
 import { motion } from "framer-motion";
-import { ArrowRight, ChevronDown, Sparkles } from "lucide-react";
+import { ArrowRight, ChevronDown } from "lucide-react";
 import { Link } from "react-router-dom";
 import { Suspense, lazy } from "react";
 
